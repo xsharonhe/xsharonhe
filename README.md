@@ -1,6 +1,6 @@
 ### Hi there 👋 
 My name is Sharon, and I love exploring how technology can be used to develop data-driven business solutions. I fell in love with building software because I believe in technology's ability to develop creative solutions for the complex issues our society faces. Currently, I'm volunteering at Unitic, building a machine-learning based diagnostic tool for Tourette's Syndrome, and PuMP as a web developer.
-- ⚡ I have experience working on full-stack web development projects, and Python for data science.
+- ⚡ I have experience working on full-stack web development projects, and Python for data science
 - 🌱 I’m currently delving into natural language processing (NLP) and cloud computing (e.g. GCP, AWS)
 - 📫 How to reach me: sharon.he1@uwaterloo.ca
 <!--
