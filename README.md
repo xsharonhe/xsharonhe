@@ -1,8 +1,7 @@
 ### Hi there 👋 
 My name is Sharon, and I love exploring how technology can be used to develop data-driven business solutions.
-- 🔭 I’m currently working on multiple projects, including a tours agency website, creating data visualizations for CVT, and interning at CheaprEats.
-- ⚡ I have experience working with the MERN stack, Redux, TypeScript, and Python for data analysis and visualization.
-- 🌱 I’m currently learning PySpark for working with big data and algorithms.
+- ⚡ I have experience working on full-stack web development projects, and Python for data science.
+- 🌱 I’m currently delving into natural language processing (NLP) and cloud computing (e.g. GCP, AWS)
 - 📫 How to reach me: sharon.he1@uwaterloo.ca
 <!--
 **xsharonhe/xsharonhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
