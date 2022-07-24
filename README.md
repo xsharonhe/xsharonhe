@@ -1,7 +1,6 @@
 ### Hi there 👋 
-My name is Sharon, and I love exploring how technology can be used to develop data-driven solutions. I fell in love with building software because I believe in technology's ability to develop creative solutions for the complex issues our society faces. Currently, I'm volunteering at PuMP, as their head of technology, where I'm building their new website and creating training documents for students to break into programming.
-- ⚡ I have experience working on full-stack web development projects, and Python for data science and building microservices
-- 🌱 I’m currently delving into infrastructure (Docker, Kubernetes), scalable and reliable data systems (with Hadoop, Spark), and cloud computing (e.g. GCP, AWS)
+My name is Sharon, and I love exploring how technology can be used to develop scalable and reliable data-driven solutions. I fell in love with building software because I believe in technology's ability to develop creative solutions for the complex issues our society faces. Currently, I'm volunteering at PuMP, as their head of technology, where I'm building their new website and creating training documents for students to break into programming.
+- 🌱 I’m currently delving into infrastructure, database internals + distributed systems, and cloud computing 
 - 📫 How to reach me: sharon.he1@uwaterloo.ca
 
 I'd love to have coffee chats for anyone is interested in tech, or getting in tech. Feel free to message me!
