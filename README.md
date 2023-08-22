@@ -1,9 +1,9 @@
 ### Hi there 👋 
-My name is Sharon, and I love exploring how technology can be used to develop scalable and reliable data-driven solutions. I fell in love with building software because I believe in technology's ability to develop creative solutions for the complex issues our society faces. Currently, I'm volunteering at PuMP, as their head of technology, where I'm building their new website and creating training documents for students to break into programming.
-- 🌱 I’m currently delving into infrastructure, database internals + distributed systems, and cloud computing 
-- 📫 How to reach me: sharon.he1@uwaterloo.ca
+I’m Sharon. At heart, I’m a problem solver — I’m passionate about solving deep, complex problems that our society faces. 
 
-I'd love to have coffee chats for anyone is interested in tech, or getting in tech. Feel free to message me!
+🌱 Particularly, I’m interested in problems relating to designing scalable and reliable software and big data systems. I have experience mostly working with backend engineering, distributed systems, and security. Currently, I'm volunteering at PuMP, as their head of technology, where I've built their new website and created training documents for students to break into programming. I've also interned at Salesforce, Faire, Kiavi, and Geotab.
+
+📫 I’d love to listen and chat with other developers about their journeys in tech! Feel free to reach out or email me at sharonhe.dev@gmail.com.
 <!--
 **xsharonhe/xsharonhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
